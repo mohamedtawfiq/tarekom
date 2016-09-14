@@ -1,0 +1,1 @@
+document.write('<div style="width:400px;height:270px;margin:0;padding:0"><iframe src="https://www.yogile.com/embed/94df932e-7a9e-11e6-9095-57af2969488c/?width=400&height=270&caption=&auto=&sort=&upload=" frameBorder="0" scrolling="no" style="border:none;padding:0;margin:0;width:100%;height:100%;"></iframe></div>');
